@@ -1,0 +1,35 @@
+body{
+  text-aling: center;
+  font-family: Helvetica;
+}
+
+.hero{
+  color: white;
+}
+
+h1{
+  font-size: 70px
+  font-weight: bold;
+}
+
+.btn-nav{
+  font-size: 18px;
+}
+
+h2.supporting{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.supporting{
+  color: black;
+}
+
+h2.hero{
+  color: white;
+}
+
+h3.supportingitem{
+  font-size: 23px;
+  font-weight: bold;
+}
